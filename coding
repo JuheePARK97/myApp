@@ -5,7 +5,8 @@
   </icon-card-header>
   
   <icon-card-content>
-   Hi Juhee YOu are doing good smiles!
-    </icon-card-content>
+    Hi Juhee Yuu are doing pretty awsome smiles!
+    <button icon-button block="ture";>Submit</button>
+   </icon-card-content>
     
     </icon-card>
